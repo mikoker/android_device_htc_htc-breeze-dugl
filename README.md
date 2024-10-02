@@ -1,0 +1,1 @@
+# Android device tree for htc HTC Desire 12 (htc_breeze_dugl)

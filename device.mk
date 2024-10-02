@@ -1,0 +1,1 @@
+LOCAL_PATH := device/htc/htc_breeze_dugl
